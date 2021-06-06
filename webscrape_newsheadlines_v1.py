@@ -16,7 +16,7 @@ soup = BeautifulSoup(source, 'lxml')
 #Isolates the news titles, descriptions, and video thumbnail images of the page.
 #The for-loop enables the process to be iterated to all of the 'recent news' articles on the page.
 for article in soup.find_all('div', class_='Card-container Card-md Card-split-container Card-split-container--sm frn-u-foreground-chrome frn-u-background-chrome'):
-#print(article.prettify())
+
 
     #TITLE
     title = article.find('div', class_='Card-title Card-split-title Card-split-title--sm')
