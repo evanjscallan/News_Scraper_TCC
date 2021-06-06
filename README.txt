@@ -1,4 +1,4 @@
-PROJECT TITLE: Basic News Scraper - TCC
+PROJECT TITLE: News Scraper - TCC
 Developer: Evan Scallan
 
 
