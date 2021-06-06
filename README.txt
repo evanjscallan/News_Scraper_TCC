@@ -20,7 +20,7 @@ To install:
 The purpose of this project is to produce a quick and easy way to pull raw text data from a news site (in this case 'www.TheCowboyChannel.com') and format the text into an easy-to-read medium.
 
 CONTACT:
-If you have any questions regard the project, please contact EvanJScallan@gmail.co
+If you have any questions regard the project, please contact EvanJScallan@gmail.com.
 
 
 
